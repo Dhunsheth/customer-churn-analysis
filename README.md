@@ -6,7 +6,7 @@ the relationship between customer interactions/profiles to the rate at which cus
 relationship, the company can then predict the expected reduction in the number of customers that churn based on
 some reduction in call failures or complaints.     
 
-**Statistical Description**
+**Statistical Description**    
 The dataset we are using is publicly available from the UC Irvine Machine Learning repository. Data was randomly
 collected from an Iranian telecom company database over a period of 12 months in 2020. The database has a total of
 3150 rows, each representing a customer. The following are the 13 columns in the database:
