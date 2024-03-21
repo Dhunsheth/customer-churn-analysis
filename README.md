@@ -1,5 +1,7 @@
 # Customer Churn Analysis   
 
+[Report Link](https://dhunsheth.github.io/customer-churn-analysis/)
+
 ## Introduction    
 The project will aim to analyze churn data from an Iranian telecommunications company. The goal is to understand
 the relationship between customer interactions/profiles to the rate at which customers churn. By modeling this
